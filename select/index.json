@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "足跡",
+  "base_artist": "the peggies",
+  "createdAt": "2026-02-07T17:38:48.896436Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "足跡",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/01_足跡_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Be With You (足跡)",
+      "artist": "JO1",
+      "has_synced": true,
+      "path": "select/02_Be_With_You_(足跡)_JO1.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "足跡 (remastered 2022)",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/03_足跡_(remastered_2022)_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "足跡",
+      "artist": "ロードオブメジャー",
+      "has_synced": true,
+      "path": "select/04_足跡_ロードオブメジャー.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "足跡",
+      "artist": "19",
+      "has_synced": true,
+      "path": "select/05_足跡_19.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "足跡",
+      "artist": "富田美憂",
+      "has_synced": true,
+      "path": "select/06_足跡_富田美憂.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "足跡",
+      "artist": "富田美憂",
+      "has_synced": false,
+      "path": "select/07_足跡_富田美憂.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "足跡",
+      "artist": "reche",
+      "has_synced": true,
+      "path": "select/08_足跡_reche.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "足跡",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/09_足跡_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "足跡 (RetroVision Remix) [RADIO EDIT] - SACRA BEATS Singles",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/10_足跡_(RetroVision_Remix)_[RADIO_EDIT]_-_SACRA_BEATS_Singles_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "足跡 - 合唱ver.",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/11_足跡_-_合唱ver._Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "足跡 - Ashiato -Footprints-",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/12_足跡_-_Ashiato_-Footprints-_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "足跡 -BRIGHT NEW WORLD<スペシャルオンデマンドライブ-",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/13_足跡_-BRIGHT_NEW_WORLD_スペシャルオンデマンドライブ-_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "足跡",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/14_足跡_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "足跡 (g#101 remastering)",
+      "artist": "reche",
+      "has_synced": true,
+      "path": "select/15_足跡_(g_101_remastering)_reche.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "足跡",
+      "artist": "the peggies",
+      "has_synced": false,
+      "path": "select/pl_01_足跡_the_peggies.txt"
+    }
+  ]
+}
